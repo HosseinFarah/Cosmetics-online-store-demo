@@ -74,20 +74,20 @@ This project is a Flask-based web application that provides user authentication,
 - **Register:** Users can register by providing their details including a profile picture.
   ![Register](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/12-registeration.gif)
 - **Login:** Registered users can log in using their email and password.
-  ![Login](app/static/uploads/demo/07-payment.gif)
+  ![Login](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/07-payment.gif)
 - **Profile Management:** Users can update their profile information and change their password.
-  ![Profile Management](app/static/uploads/demo/09-update%20profile.gif)
+  ![Profile Management](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/09-update%20profile.gif)
 - **Password Reset:** Users can request a password reset link via email.
-  ![Password Reset](app/static/uploads/demo/15-resetpassword.gif)
+  ![Password Reset](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/15-resetpassword.gif)
 
 ### Product Management
 - **Create Product:** Admins can create new products by providing details such as name, price, description, images, etc.
-  ![Create Product](app/static/uploads/demo/16-Admin-products.gif)
+  ![Create Product](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/16-Admin-products.gif)
 - **Update Product:** Admins can update existing product details including discounts.
 - **Delete Product:** Admins can delete products from the database.
-  ![Delete Product](app/static/uploads/demo/16-Admin-other%20sections.gif)
+  ![Delete Product](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/16-Admin-other%20sections.gif)
 - **View Products:** Users can view all products, filter by categories and brands, and search for specific products. The product categories include skincare products, scents, hair products, and other related products.
-  ![View Products](app/static/uploads/demo/1-intro.gif)
+  ![View Products](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/1-intro.gif)
 - **Product details:** Users can view all product details, including the product description, instructions, ingredients, pictures displayed as a slideshow, and other related product information.
 - **Categories:** Users can filter products based on their categories, view related products for each category, and see brand logos displayed for each category that includes the selected products.
 - **Brands:** Users can filter products based on their brands, view related products for each brand, and access detailed brand information, including the brand logo, a short announcement, and a description of the brand. Additionally, a complete list of brands is displayed, sorted alphabetically.
@@ -95,36 +95,36 @@ This project is a Flask-based web application that provides user authentication,
 
 ### Shopping Basket and Checkout
 - **Basket:** Users can easily add their chosen products to the basket. If a selected product has already been added, its quantity is increased, and a related message is displayed. Users can view all selected products in the basket, with options to increase, decrease, or remove products. Pricing is calculated based on whether products have discounts, and the total price reflects the discounted prices where applicable.
-  ![Add to Basket](app/static/uploads/demo/06-basket.gif)
+  ![Add to Basket](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/06-basket.gif)
 - **Checkout with Stripe:** Users can proceed to checkout and make payments using Stripe.
-  ![Checkout](app/static/uploads/demo/07-payment.gif)
+  ![Checkout](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/07-payment.gif)
 - **My-orders:** After successfully completing a payment, users can view all their orders in the profile section. Each order history includes the transaction date, details of purchased products (such as product name, quantity, and price), savings for discounted products, and the total price. Additionally, users can access links to each purchased product for further details.
 
 ### Ticketing System
 - **Create Ticket:** Users can create support tickets by providing a title, description, and optional image.
-  ![Create Ticket](app/static/uploads/demo/11-create%20ticket.gif)
+  ![Create Ticket](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/11-create%20ticket.gif)
 - **View Tickets:** Users can view their tickets and admins can view all tickets.
 - **Update Ticket:** Users and admins can update ticket details.
 - **Answer Ticket:** Users and admins can add messages to tickets for communication.
-  ![Answer Ticket](app/static/uploads/demo/11-live%20msg%20system.gif)
+  ![Answer Ticket](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/11-live%20msg%20system.gif)
 
 ### Rating System
 - **Add Rating:** Users can rate products and leave reviews after purchasing the products.
 - **Update Rating:** Users can update their existing ratings and reviews.
 - **View Ratings:** Users, including registered users and guest users, can view all reviews for each product.
-  ![View Ratings](app/static/uploads/demo/view_ratings.gif)
+  ![View Ratings](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/view_ratings.gif)
 
 ### Admin Dashboard
 - **Manage Users:** Admins can view, update, and delete user accounts.
-  ![Manage Users](app/static/uploads/demo/16-Admin-all%20users.gif)
+  ![Manage Users](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/16-Admin-all%20users.gif)
 - **Manage Orders:** Admins can view all orders and their details.
-  ![Manage Orders](app/static/uploads/demo/16-Admin-orders.gif)
+  ![Manage Orders](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/16-Admin-orders.gif)
 - **Manage Tickets:** Admins can view and manage all support tickets.
-  ![Manage Tickets](app/static/uploads/demo/16-Admin-tickets.gif)
+  ![Manage Tickets](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/16-Admin-tickets.gif)
 
 ### Multi-language Support
 The application supports multiple languages. Users can select their preferred language from the dropdown menu.
-  ![Multi-language Support](app/static/uploads/demo/10-multilangual.gif)
+  ![Multi-language Support](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/10-multilangual.gif)
 
 ## Contributing
 
