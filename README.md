@@ -72,7 +72,7 @@ This project is a Flask-based web application that provides user authentication,
 
 ### User Authentication
 - **Register:** Users can register by providing their details including a profile picture.
-  ![Register](app/static/uploads/demo/12-registeration.gif)
+  ![Register](https://raw.githubusercontent.com/HosseinFarah/Cosmetics-online-store/main/app/static/uploads/demo/12-registeration.gif)
 - **Login:** Registered users can log in using their email and password.
   ![Login](app/static/uploads/demo/07-payment.gif)
 - **Profile Management:** Users can update their profile information and change their password.
