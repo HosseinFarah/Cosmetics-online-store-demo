@@ -1,7 +1,7 @@
 # Flask Authentication and E-commerce Application
 
 This project is a Flask-based web application that provides user authentication, product management, ticketing system, and e-commerce functionalities. The application supports multiple languages and includes features for both regular users and administrators.
-
+https://store.farah.fi/
 ## Project Overview
 
 **Helmi Shop** was created with the aim of offering our customers the best and highest quality products. The Helmi Shop cosmetics store offers a wide selection of famous brands for beauty lovers. In this online store, you can find all kinds of cosmetic products, including creams, cosmetics, perfumes, and skin and hair care products. You can safely buy your beauty products and benefit from high-quality products and services.
